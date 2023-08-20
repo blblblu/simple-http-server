@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#!/usr/bin/env python3
 
 import argparse # for parsing the command line arguments
 import threading # for running the server in multiple threads
